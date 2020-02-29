@@ -7,7 +7,7 @@ services:
         networks: 
           - BeardsMagicNetwork
         volumes: 
-          - C:\Users\mrrob\Documents\dbatools:/var/opt/mssql/backups
+          - C:\Users\mrrob\Documents\dbatoolsdemo:/var/opt/mssql/backups
     SQL2019-1:
         image: sqldbawithabeard/dbachecksdemo
         ports:  
@@ -15,6 +15,6 @@ services:
         networks: 
           - BeardsMagicNetwork
         volumes: 
-          - C:\Users\mrrob\Documents\dbatools:/var/opt/mssql/backups
+          - C:\Users\mrrob\Documents\dbatoolsdemo:/var/opt/mssql/backups
 networks: 
   BeardsMagicNetwork:
