@@ -1,6 +1,4 @@
 # Notebooks
 
-You can open these in Binder https://mybinder.org/ by clicking the image below
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SQLDBAWithABeard/Notebooks/master?urlpath=lab)
+Annoyingly I had to recreate this repo so it would work with Binder, you can find it https://github.com/SQLDBAWithABeard/JupyterNotebooks
 
